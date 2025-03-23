@@ -17,4 +17,13 @@ This is a simple responsive login page built using **HTML**, **CSS**, and **Boot
 - CSS3
 - Bootstrap 5
 
-## 📂 Project Structure
+## 🎨 Bootstrap Usage Explained
+
+| Component              | Bootstrap Class Used                     | Description                                   |
+|-----------------------|------------------------------------------|-----------------------------------------------|
+| Navbar                | `navbar`, `navbar-light`, `btn`         | Used for top navigation menu                  |
+| Form Inputs           | `form-control`                          | Styled email and password fields              |
+| Buttons               | `btn btn-success`, `btn btn-warning`    | For Sign In, Sign Up, and Login buttons       |
+| Layout Alignment      | `d-flex`, `justify-content-center`     | Centered the login form on screen             |
+| Grid System           | `container`, `row`, `col-md-*`         | To maintain responsiveness                    |
+| Utility Classes       | `text-center`, `mt-3`, `p-2`            | For padding, margins, and text alignment      |
