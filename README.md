@@ -3,7 +3,7 @@
 This is a simple responsive login page built using **HTML**, **CSS**, and **Bootstrap 5**.
 
 ## 📸 Screenshot
-![Login Page Preview](relative/path/to/your/screenshot.png)
+![Login Page Preview](https://github.com/Akulayagneshwaramurthy/Fresh-Fruits/blob/master/Screenshot%202025-03-17%20121424.png?raw=true)
 
 ## 💡 Features
 - Responsive navigation bar using Bootstrap.
