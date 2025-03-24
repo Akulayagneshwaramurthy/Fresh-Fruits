@@ -45,14 +45,17 @@ JavaScript (for interactivity)
 <!-- Replace this with your actual image path in the repo -->
 
 💡 Bootstrap Features Used
-Feature / Component	Description
-Navbar	Responsive Bootstrap navbar with navbar-brand, nav-links, and right-aligned buttons (Sign Up, Login).
-Buttons	Bootstrap styled buttons (btn, btn-warning, btn-outline) for actions.
-Carousel / Hero Image	Used a Bootstrap carousel or image banner to showcase fruits.
-Grid System	(If used elsewhere in the page) Bootstrap grid layout for responsiveness.
-Colors & Styling	Custom colors and Bootstrap utility classes like bg-warning, text-white, etc.
+| Feature / Component	  |    Description                                                                                        |
+|-----------------------|-------------------------------------------------------------------------------------------------------|
+| Navbar	              | Responsive Bootstrap navbar with navbar-brand, nav-links, and right-aligned buttons (Sign Up, Login). |
+| Buttons	              | Bootstrap styled buttons (btn, btn-warning, btn-outline) for actions.                                 |
+| Carousel / Hero Image |	Used a Bootstrap carousel or image banner to showcase fruits.                                         |
+| Grid System           |	(If used elsewhere in the page) Bootstrap grid layout for responsiveness.                             | 
+| Colors & Styling	    | Custom colors and Bootstrap utility classes like bg-warning, text-white, etc.                         |
 
 📂 Folder Structure
+
+
 fresh-fruits-website/
 │
 ├── assets/
