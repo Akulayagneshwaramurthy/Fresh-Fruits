@@ -32,7 +32,8 @@ This is a simple responsive login page built using **HTML**, **CSS**, and **Boot
 📦 Fresh Fruits Website 🍇🍊🍉
 This is a responsive Fresh Fruits Website built using HTML, CSS, and Bootstrap. The project showcases a vibrant homepage with a colorful fruit banner, a responsive navigation bar, and user-friendly design components.
 
-(https://github.com/Akulayagneshwaramurthy/Fresh-Fruits/blob/master/1.png?raw=true)
+## 📸 Screenshot
+![HomePage](https://github.com/Akulayagneshwaramurthy/Fresh-Fruits/blob/master/1.png?raw=true)
 
 🚀 Technologies Used
 HTML5
