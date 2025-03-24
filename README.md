@@ -74,6 +74,9 @@ fresh-fruits-website/
 🍏 Bootstrap Product Cards Section
 This section of the website displays a list of fruits/products using Bootstrap Cards and the Grid System for a clean, responsive layout.
 
+## 📸 Screenshot
+![HomePage](https://github.com/Akulayagneshwaramurthy/Fresh-Fruits/blob/master/2.png?raw=true)
+
 ✅ Features Used:
 | Bootstrap Component	                 | Description                                                                                                                                                   |
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -85,6 +88,9 @@ This section of the website displays a list of fruits/products using Bootstrap C
 💬 Bootstrap Reviews Section
 The Reviews section showcases customer feedback using Bootstrap Cards and Grid System, making it look clean, organized, and responsive.
 
+## 📸 Screenshot
+![HomePage](https://github.com/Akulayagneshwaramurthy/Fresh-Fruits/blob/master/3.png?raw=true)
+
 ✅ Features Used:
 | Bootstrap Element	               | Description                                                                                   |
 |----------------------------------|-----------------------------------------------------------------------------------------------|
@@ -92,6 +98,9 @@ The Reviews section showcases customer feedback using Bootstrap Cards and Grid S
 | Grid System (.row, .col-md-4)	   | Reviews are distributed evenly using a three-column responsive layout.                        |
 | Rounded Images (.rounded-circle) | Profile pictures are displayed in a circular frame using rounded-circle class.                |
 | Typography (.card-title, p)	     | Names and feedback are styled using Bootstrap’s typography for better readability.            |
+
+## 📸 Screenshot
+![HomePage](https://github.com/Akulayagneshwaramurthy/Fresh-Fruits/blob/master/4.png?raw=true)
 
 ✅ Summary Table for README.md
 |Section	     | Bootstrap Components Used     |
@@ -104,6 +113,9 @@ The Reviews section showcases customer feedback using Bootstrap Cards and Grid S
 🍎 Bootstrap Product Cards Section
 This section features product listings using Bootstrap Cards, optimized for layout responsiveness and visual clarity.
 
+## 📸 Screenshot
+![HomePage](https://github.com/Akulayagneshwaramurthy/Fresh-Fruits/blob/master/5.png?raw=true)
+
 ✅ Features Used:
 | Bootstrap Element	                   | Description                                                                    |
 |--------------------------------------|--------------------------------------------------------------------------------|
@@ -111,6 +123,9 @@ This section features product listings using Bootstrap Cards, optimized for layo
 | Grid System (.row, .col-md-3)	       | Organizes cards in rows and columns, adapting layout for all screen sizes.     |
 | Buttons (.btn, .btn-primary)	       | "Buy Now" call-to-action using Bootstrap-styled buttons.                       |
 | Typography (.card-title, .card-text) | Ensures clean, readable content structure.                                     |
+
+## 📸 Screenshot
+![HomePage](https://github.com/Akulayagneshwaramurthy/Fresh-Fruits/blob/master/7.png?raw=true)
 
 | Section	   | Bootstrap Components Used  |
 |------------|----------------------------|
@@ -121,6 +136,9 @@ This section features product listings using Bootstrap Cards, optimized for layo
 🌐 About Us Page - Fresh Fruits Website
 This project is a responsive About Us page built using HTML5, CSS3, and Bootstrap 4/5.
 It is designed as part of a fruit store website called Fresh Fruits 🍎🍊🍇.
+
+## 📸 Screenshot
+![About Us Page](https://github.com/Akulayagneshwaramurthy/Fresh-Fruits/blob/master/8.png?raw=true)
 
 📌 Key Features:
 ✅ Responsive Navbar with navigation links (Home, Products, About Us, Contact Us)
@@ -144,13 +162,13 @@ Bootstrap 4 / 5
 
 FontAwesome / Bootstrap Icons
 
-💻 Screenshot:
-
-Replace path-to-your-screenshot.png with the relative path to your uploaded screenshot in the repository, like:
-![About Us Page](screenshots/about-us-page.png)
 
 📄 Contact Us Page (Bootstrap-based)
 This project includes a fully responsive Contact Us page designed using Bootstrap 5. It offers a professional layout with modern UI components, making it perfect for business or portfolio websites.
+
+## 📸 Screenshot
+![Contact Us Page](https://github.com/Akulayagneshwaramurthy/Fresh-Fruits/blob/master/10.png?raw=tru
+![Contact Us Page](https://github.com/Akulayagneshwaramurthy/Fresh-Fruits/blob/master/11.png?raw=true)
 
 🔧 Built With
 HTML5
